@@ -16,4 +16,11 @@ public class OrderLine {
     public int getQuantity() {
         return quantity;
     }
+    public double getTotal() {
+        return product.getPrice() * quantity;
+    }
+
+    public String getString() {
+        return product.getName() + "(x" + quantity + "): " + getTotal() + "\n";
+    }
 }
