@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29e99c27-f5f5-407a-b7b5-e62936b2e696" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/0/7/070fe1924fe267c37d5396229756ff6658959c17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/0/e/0e5b57e82a86b905fcb3e11c5ac0d7dbd448f2ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/0/e/0ec032e8cf266608ad6e0f5d0d67286c5a7c0e9a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/1/7/17398f6d1cd06984b190275b6732e23a378d4166" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/1/a/1acbb36e90d58bf6aa60817a15ba02f310f69c28" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/4/4/44ecd4d39866b22ab5d669e1c7145c8dd1d9a177" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/5/4/548004d003f5d7ea0d59de75226077000cb73bc0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/6/6/6676ac238264edcd49c9c477e21918c16c2530c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/7/9/79b539b6276efb29b726e48326b6d065dda72cc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/7/d/7d5e7b86e3efcac37ec4b5f999ae40b01341efbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/7/f/7f7715e9837faabb0ad6ee0ef16fcf0194f42669" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/8/5/859ea498fab4bedf8e31a5600aa023f809550c8c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/8/6/863d016c1175ccb7db221e149542a293e6c510e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/8/b/8be82b3f803532b2d70ad245ff809a63c80758ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/9/0/903679acc8c4e85f9309184aac95c357143f4de8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/9/7/97b64b01bd1c50526d48721fa4abdbd31b2a11f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/9/9/99b2ff0d697ccb1775500311fc1a45adcb8227bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/a/7/a72cbb11040b11f1bb52b1dfa4f55d3273b84e50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/a/b/abc08f991f6abb90c3a2208a509221e6fe037b1f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/a/f/af027edff3c2e5f186da007f56507c33837793fb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/b/0/b015779dfeeb1704ebffe85f44d23dde28f5949d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/b/0/b0fb12201683236b710ff6bddbc7bb9f9de28b04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/d/0/d018aa2f72532c1fc65cdc39d6b61e05fcf8810a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/e/4/e45874b642d04b403a3231afff3634747551b7fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/e/8/e8cd03f775524a9669093a18c11e454fc3c8227e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/e/9/e98a954d26784c7e70cf3d7d6054423294cc5f1d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/e/e/ee7564724e5949345ef07a8b868ddf6e7db68b0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/f/3/f371e72a7d4bd91aa49859dd393d1f573be6e77d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/f/d/fdc11535a07af99110b5de3bb3737a1aa02ebe17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab01.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab02-03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab02-03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab04.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab04.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab06.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab06.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project_script.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../project_script.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/numbers.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/numbers.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/numbers/.idea/numbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/refactoring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example1/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example1/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example1/OrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example1/OrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example2/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example3/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example3/Discount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example3/SimpleOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example3/SimpleOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Supervisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Supervisor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example4/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example5/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example5/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example6/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/main/java/pt/up/fe/ldts/example6/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example2/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example2/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example3/SimpleOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example3/SimpleOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example4/WorkerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example4/WorkerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example6/TreeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../solutions/refactoring/src/test/java/pt/up/fe/ldts/example6/TreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/Gradle.ppt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS 2021-2022.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS-03.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../slides/LDTS-03.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS-04.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../slides/LDTS-04.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS-05.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS-06.key" beforeDir="false" afterPath="$PROJECT_DIR$/../../../slides/LDTS-06.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LDTS-07.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../slides/LTDS-Build.key" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="refactoring" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="refactoring" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="refactoring" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21uKH2MpJGnmB5eKa4WUaVVhvI9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pt.up.fe.ldts.example6" />
+      <recent name="pt.up.fe.ldts.example5" />
+      <recent name="pt.up.fe.ldts.example4" />
+      <recent name="pt.up.fe.ldts.example3" />
+      <recent name="pt.up.fe.ldts.example2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.OrderTest">
+    <configuration name="OrderSpockTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;pt.up.fe.ldts.example1.OrderSpockTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;pt.up.fe.ldts.example1.OrderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleOrderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;pt.up.fe.ldts.example3.SimpleOrderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="refactoring [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="refactoring [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OrderTest" />
+        <item itemvalue="Gradle.OrderSpockTest" />
+        <item itemvalue="Gradle.refactoring [build]" />
+        <item itemvalue="Gradle.refactoring [dependencies]" />
+        <item itemvalue="Gradle.SimpleOrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29e99c27-f5f5-407a-b7b5-e62936b2e696" name="Changes" comment="" />
+      <created>1638785440767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638785440767</updated>
+      <workItem from="1638785443667" duration="1500000" />
+      <workItem from="1638865503989" duration="1260000" />
+      <workItem from="1638866862555" duration="3227000" />
+      <workItem from="1668721573423" duration="7666000" />
+      <workItem from="1669070932333" duration="408000" />
+      <workItem from="1669110808819" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
